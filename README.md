@@ -5,7 +5,6 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-red.svg)](https://streamlit.io)
 [![Gemini](https://img.shields.io/badge/Gemini-2.0_Flash-orange.svg)](https://ai.google.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
@@ -320,7 +319,7 @@ def validate_expression(expr_str):
 
 ## 📝 라이선스
 
-MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
+현재 저장소에는 LICENSE 파일이 없으며, 이 README에서 사용·수정·재배포 조건을 지정하지 않습니다. 공개 코드라는 사실만으로 MIT 라이선스가 부여된 것은 아닙니다. 재사용 조건이 필요하면 저장소 소유자에게 확인하세요. 이 안내 수정은 새로운 라이선스를 부여하지 않습니다.
 
 ---
 
